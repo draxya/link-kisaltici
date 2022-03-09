@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 50%;
+    text-align: center;
+    margin: 15px 296px;
+  }
+  .github {
+      font-size: 2rem;
+      color: #9c3af7;
+  }
