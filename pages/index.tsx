@@ -29,7 +29,7 @@ const Home: NextPage = () => {
           </div>
         )}
 
-        <div class="footer">
+        <div className="footer">
           <a href='https://github.com/draxya/link-kisaltici'><FaGithub className='github' /></a>
         </div>
         
