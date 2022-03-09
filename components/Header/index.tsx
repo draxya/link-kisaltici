@@ -6,7 +6,7 @@ interface IProps {
 export const Header:FC<IProps> = function({title}){
     return (
     <Head>
-        <title>Link Kısaltıcı | draxya.</title>
+        <title>{title} | draxya.</title>
         <meta name="description" content="Tek tıkla istediğin linki kısalt!" />
         <link rel="icon" href="/favicon.ico" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>

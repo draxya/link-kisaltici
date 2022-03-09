@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
     <div className="h-screen w-screen flex justify-center items-center bg-violet-400 ">
       
-      <Header />
+      <Header title="Link Kısaltıcı"/>
 
       <div className="max-w-2xl bg-white rounded-md w-full p-6 ">
 
