@@ -1,8 +1,8 @@
 import type { NextPage } from 'next'
-import Head from 'next/head'
 import React, { useState } from 'react';
 import AddLink from '../components/AddLink';
-import { FaGithub } from 'react-icons/fa'
+import { FaGithub } from 'react-icons/fa';
+import { Header } from "../components/Header";
 
 const Home: NextPage = () => {
 
@@ -13,10 +13,8 @@ const Home: NextPage = () => {
   return (
 
     <div className="h-screen w-screen flex justify-center items-center bg-violet-400 ">
-      <Head>
-        <title>Link Kısaltıcı | draxya.</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
+      
+      <Header />
 
       <div className="max-w-2xl bg-white rounded-md w-full p-6 ">
 
