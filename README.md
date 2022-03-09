@@ -22,19 +22,6 @@ $ npm install
 $ npm run dev
 ```
 
-## 💞 Deploying
-
-Netlify için:
-- Base directory:
-- Build command: ```next build```
-- Publish directory: ```./build```
-
-Vercel için:
-- Build command: ```next build```
-- Output dir: ```build```
-- Install command: ```npm install```
-- Development command: ```npm run dev```
-
 ## 🛠 Built with
 
 - Next.js
