@@ -3,7 +3,7 @@
 
 ## 🔗 Link Kısaltıcı
 
-Next.js, Prisma ve Tailwindcss ile Yapılmış Link Kısaltıcı.
+Next.js, Prisma ve Tailwindcss ile yapılmış link kısaltıcı.
 
 ## ⚙️ Kurulum
 
