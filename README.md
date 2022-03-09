@@ -1,5 +1,5 @@
 ## 💻 url.draxya.com
-![Preview](https://user-images.githubusercontent.com/68575901/157455686-b819d956-bba5-41d4-96cf-9c10276c2e8c.png)
+![Preview](https://url.draxya.com/screenshot.png)
 
 ## 🔗 Link Kısaltıcı
 
